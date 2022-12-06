@@ -1,0 +1,1312 @@
+<!DOCTYPE html>
+<html class="no-js language-en" data-status-code="200" data-theme="dark" dir="ltr" lang="en" theme="dark">
+ <head>
+  <link href="//www.google-analytics.com" rel="preconnect"/>
+  <link href="//securepubads.g.doubleclick.net" rel="preconnect"/>
+  <link href="//www.googletagmanager.com" rel="preconnect"/>
+  <link href="//www.googletagservices.com" rel="preconnect"/>
+  <link href="//ajax.googleapis.com" rel="preconnect"/>
+  <link href="//cdn.webspectator.com" rel="preconnect"/>
+  <link href="//cdn.cookielaw.org" rel="preconnect"/>
+  <link href="//lngtd.com" rel="preconnect"/>
+  <link href="//player.daznservices.com" rel="dns-prefetch"/>
+  <link href="//images.daznservices.com/" rel="dns-prefetch"/>
+  <link href="//wfpscripts.webspectator.com" rel="dns-prefetch"/>
+  <link href="//webservices.webspectator.com" rel="dns-prefetch"/>
+  <link href="//player.daznfeeds.com" rel="dns-prefetch"/>
+  <link href="//connect.facebook.net" rel="dns-prefetch"/>
+  <meta charset="utf-8"/>
+  <meta content="user-scalable=yes, maximum-scale=5, width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="yes" name="apple-mobile-web-app-capable"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <!--[if IEMobile]><meta http-equiv="cleartype" content="off"><![endif]-->
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /><![endif]-->
+  <meta content="Get the latest live soccer scores, results &amp; fixtures from across the world, including World Cup, powered by Goal.com" name="description"/>
+  <link href="https://www.goal.com/ar/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AD%D8%A7%D9%84%D9%8A%D9%8B%D8%A7" hreflang="ar" rel="alternate"/>
+  <link href="https://www.goal.com/ar-eg/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AD%D8%A7%D9%84%D9%8A%D9%8B%D8%A7" hreflang="ar-eg" rel="alternate"/>
+  <link href="https://www.goal.com/ar-sa/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AD%D8%A7%D9%84%D9%8A%D9%8B%D8%A7" hreflang="ar-sa" rel="alternate"/>
+  <link href="https://www.goal.com/br/resultados-tempo-real" hreflang="pt" rel="alternate"/>
+  <link href="https://www.goal.com/br/resultados-tempo-real" hreflang="pt-br" rel="alternate"/>
+  <link href="https://www.goal.com/de/live-ergebnisse" hreflang="de" rel="alternate"/>
+  <link href="https://www.goal.com/en/live-scores" hreflang="x-default" rel="alternate"/>
+  <link href="https://www.goal.com/en/live-scores" hreflang="en" rel="alternate"/>
+  <link href="https://www.goal.com/en-ae/live-scores" hreflang="en-ae" rel="alternate"/>
+  <link href="https://www.goal.com/en-au/live-scores" hreflang="en-au" rel="alternate"/>
+  <link href="https://www.goal.com/en-au/live-scores" hreflang="en-cc" rel="alternate"/>
+  <link href="https://www.goal.com/en-au/live-scores" hreflang="en-nz" rel="alternate"/>
+  <link href="https://www.goal.com/en-bh/live-scores" hreflang="en-bh" rel="alternate"/>
+  <link href="https://www.goal.com/en-cm/live-scores" hreflang="en-cm" rel="alternate"/>
+  <link href="https://www.goal.com/en-gb/live-scores" hreflang="en-gb" rel="alternate"/>
+  <link href="https://www.goal.com/en-gh/live-scores" hreflang="en-gh" rel="alternate"/>
+  <link href="https://www.goal.com/en-in/live-scores" hreflang="en-bd" rel="alternate"/>
+  <link href="https://www.goal.com/en-in/live-scores" hreflang="en-bt" rel="alternate"/>
+  <link href="https://www.goal.com/en-in/live-scores" hreflang="en-in" rel="alternate"/>
+  <link href="https://www.goal.com/en-in/live-scores" hreflang="en-mv" rel="alternate"/>
+  <link href="https://www.goal.com/en-in/live-scores" hreflang="en-np" rel="alternate"/>
+  <link href="https://www.goal.com/en-ke/live-scores" hreflang="en-ke" rel="alternate"/>
+  <link href="https://www.goal.com/en-kw/live-scores" hreflang="en-kw" rel="alternate"/>
+  <link href="https://www.goal.com/en-my/live-scores" hreflang="en-my" rel="alternate"/>
+  <link href="https://www.goal.com/en-ng/live-scores" hreflang="en-ng" rel="alternate"/>
+  <link href="https://www.goal.com/en-om/live-scores" hreflang="en-om" rel="alternate"/>
+  <link href="https://www.goal.com/en-qa/live-scores" hreflang="en-qa" rel="alternate"/>
+  <link href="https://www.goal.com/en-sa/live-scores" hreflang="en-sa" rel="alternate"/>
+  <link href="https://www.goal.com/en-sg/live-scores" hreflang="en-kh" rel="alternate"/>
+  <link href="https://www.goal.com/en-sg/live-scores" hreflang="en-la" rel="alternate"/>
+  <link href="https://www.goal.com/en-sg/live-scores" hreflang="en-sg" rel="alternate"/>
+  <link href="https://www.goal.com/en-tza/live-scores" hreflang="en-tz" rel="alternate"/>
+  <link href="https://www.goal.com/en-ug/live-scores" hreflang="en-ug" rel="alternate"/>
+  <link href="https://www.goal.com/en-us/live-scores" hreflang="en-ag" rel="alternate"/>
+  <link href="https://www.goal.com/en-us/live-scores" hreflang="en-as" rel="alternate"/>
+  <link href="https://www.goal.com/en-us/live-scores" hreflang="en-bs" rel="alternate"/>
+  <link href="https://www.goal.com/en-us/live-scores" hreflang="en-bz" rel="alternate"/>
+  <link href="https://www.goal.com/en-us/live-scores" hreflang="en-dm" rel="alternate"/>
+  <link href="https://www.goal.com/en-us/live-scores" hreflang="en-jm" rel="alternate"/>
+  <link href="https://www.goal.com/en-us/live-scores" hreflang="en-us" rel="alternate"/>
+  <link href="https://www.goal.com/en-us/live-scores" hreflang="en-vi" rel="alternate"/>
+  <link href="https://www.goal.com/en-za/live-scores" hreflang="en-za" rel="alternate"/>
+  <link href="https://www.goal.com/en-za/live-scores" hreflang="en-zw" rel="alternate"/>
+  <link href="https://www.goal.com/es/resultados-en-vivo" hreflang="es" rel="alternate"/>
+  <link href="https://www.goal.com/es/resultados-en-vivo" hreflang="es-es" rel="alternate"/>
+  <link href="https://www.goal.com/es/resultados-en-vivo" hreflang="es-ad" rel="alternate"/>
+  <link href="https://www.goal.com/es-ar/resultados-en-vivo" hreflang="es-ar" rel="alternate"/>
+  <link href="https://www.goal.com/es-ar/resultados-en-vivo" hreflang="es-bo" rel="alternate"/>
+  <link href="https://www.goal.com/es-ar/resultados-en-vivo" hreflang="es-ec" rel="alternate"/>
+  <link href="https://www.goal.com/es-ar/resultados-en-vivo" hreflang="es-pe" rel="alternate"/>
+  <link href="https://www.goal.com/es-ar/resultados-en-vivo" hreflang="es-py" rel="alternate"/>
+  <link href="https://www.goal.com/es-ar/resultados-en-vivo" hreflang="es-uy" rel="alternate"/>
+  <link href="https://www.goal.com/es-cl/resultados-en-vivo" hreflang="es-cl" rel="alternate"/>
+  <link href="https://www.goal.com/es-co/resultados-en-vivo" hreflang="es-co" rel="alternate"/>
+  <link href="https://www.goal.com/es-co/resultados-en-vivo" hreflang="es-ve" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-cr" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-cu" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-do" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-gt" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-hn" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-mx" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-ni" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-pa" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-pr" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-sv" rel="alternate"/>
+  <link href="https://www.goal.com/es-mx/resultados-en-vivo" hreflang="es-us" rel="alternate"/>
+  <link href="https://www.goal.com/fr/live-scores" hreflang="fr" rel="alternate"/>
+  <link href="https://www.goal.com/hu/%C3%A9l%C5%91" hreflang="hu" rel="alternate"/>
+  <link href="https://www.goal.com/id/livescore" hreflang="id" rel="alternate"/>
+  <link href="https://www.goal.com/it/livescore" hreflang="it" rel="alternate"/>
+  <link href="https://www.goal.com/jp/%E8%A9%A6%E5%90%88%E9%80%9F%E5%A0%B1" hreflang="ja" rel="alternate"/>
+  <link href="https://www.goal.com/kr/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%8A%A4%EC%BD%94%EC%96%B4" hreflang="ko" rel="alternate"/>
+  <link href="https://www.goal.com/nl/live-scores" hreflang="nl" rel="alternate"/>
+  <link href="https://www.goal.com/th/%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B9%8C" hreflang="th" rel="alternate"/>
+  <link href="https://www.goal.com/tr/canl%C4%B1-skorlar" hreflang="tr" rel="alternate"/>
+  <link href="https://www.goal.com/vn/live-score" hreflang="vi" rel="alternate"/>
+  <link href="https://www.goal.com/zh-cn/%E5%AE%9E%E6%97%B6%E6%AF%94%E5%88%86" hreflang="zh" rel="alternate"/>
+  <title>
+   Live Soccer Scores, Fixtures &amp; Results | Goal.com
+  </title>
+  <link as="script" href="https://polyfill.io/v3/polyfill.min.js?features=es5%2Ces6%2CIntersectionObserver%2CIntersectionObserverEntry%2CElement.prototype.remove%2CElement.prototype.cloneNode%2CElement.prototype.classList%2CNodeList.prototype.forEach%2CObject.assign%2CMutationObserver%2CCustomEvent%2CmatchMedia%2CIntl.DisplayNames%2CDate.prototype.toISOString%2Cfetch" rel="preload"/>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es5%2Ces6%2CIntersectionObserver%2CIntersectionObserverEntry%2CElement.prototype.remove%2CElement.prototype.cloneNode%2CElement.prototype.classList%2CNodeList.prototype.forEach%2CObject.assign%2CMutationObserver%2CCustomEvent%2CmatchMedia%2CIntl.DisplayNames%2CDate.prototype.toISOString%2Cfetch">
+  </script>
+  <script>
+   (function(){ const theme = window.localStorage.getItem('goalColorScheme'); if(theme) { document.documentElement.setAttribute('theme', theme); document.documentElement.setAttribute('data-theme', theme); } })();
+  </script>
+  <link href="https://z.moatads.com" rel="preconnect"/>
+  <link href="http://c.amazon-adsystem.com" rel="preconnect"/>
+  <link href="https://lngtd.com" rel="preconnect"/>
+  <link href="https://z.moatads.com" rel="dns-prefetch"/>
+  <link href="http://c.amazon-adsystem.com" rel="dns-prefetch"/>
+  <link href="https://lngtd.com" rel="dns-prefetch"/>
+  <link href="https://geolocation.onetrust.com" rel="preconnect"/>
+  <link href="https://cdn.cookielaw.org" rel="preconnect"/>
+  <link href="https://geolocation.onetrust.com" rel="dns-prefetch"/>
+  <link href="https://cdn.cookielaw.org" rel="dns-prefetch"/>
+  <script data-domain-script="61d77781-f742-492b-a7b9-3eba1f2cec59" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js">
+  </script>
+  <script type="text/javascript">
+   function OptanonWrapper() { var onetrustEvent = new CustomEvent('cmpReady', { detail: { activeGroups: window.OptanonActiveGroups } }); if (document.cookie.indexOf('OptanonAlertBoxClosed=') !== -1) { window.dispatchEvent(onetrustEvent); } }
+  </script>
+  <script>
+   window.addEventListener('fcoIdReady', (event) => { window.dynamicAdConfig = window.dynamicAdConfig || []; window.dynamicAdConfig.targeting = [{"key":"language","values":"en"},{"key":"environment","values":"production"},{"key":"edition","values":"en-us"},{"key":"goalversion","values":"BETA"},{"key":"siteVersion","values":"Responsive"},{"key":"version","values":"6.57.0"},{"key":"anonymousClientId","values":"goal_user"},{"key":"pageType","values":"Schedule"},{"key":"pageSubType","values":"Today"},{"key":"adPageName","values":"fixtures_results"},{"key":"pageTitle","values":"Live Soccer Scores, Fixtures & Results"},{"key":"otherContentTagIds","values":["70excpe1synn9kadnbppahdn7","4oogyu6o156iphvdvphwpck10","2kwbbcootiqqgmrzs6o5inle5","34pl8szyvrbwcmfkuocjm3r6t","1r097lpxe0xn03ihb7wi98kao","6by3h89i2eykc341oz7lv1ddd","dm5ka0os1e3dxcp3vh05kmp33","4c1nfi2j1m731hcay25fcgndq","c7b8o53flg36wbuevfzy3lb10","595nsvo7ykvoe690b1e4u5n56","287tckirbfj9nb8ar2k9r60vn","2hsidwomhjsaaytdy9u5niyi4","725gd73msyt08xm76v7gkxj7u","2hj3286pqov1g1g59k2t2qcgm","apdwh753fupxheygs8seahh7x","6694fff47wqxl10lrd9tb91f8","486rhdgz7yc0sygziht7hje65","djkvh1luqdkdixpoe653lzixg","cesdwwnxbc5fmajgroc0hqzy2","dvtl8sf1262pd2aqgu641qa7u"]},{"key":"otherContentTags","values":["World Cup","UEFA Champions League","Premier League","Primera Divisi\u00f3n","Serie A","Bundesliga","Ligue 1","UEFA Europa League","UEFA Europa Conference League","UEFA Nations League","MLS","Liga MX","League Cup","FA Cup","Copa del Rey","Coppa Italia","DFB Pokal","NWSL","Friendlies","Friendlies Women"]}]; window.dynamicAdConfig.targeting.push({key: 'fc_id', values: event.detail.fc_id}); var script = document.createElement('script'); script.src = 'https://lngtd.com/goal.js'; document.head.appendChild(script); });
+  </script>
+  <link as="script" href="/assets/default/ltr/js/livescores.210a8aa1dd.js" rel="preload"/>
+  <link as="style" href="/assets/default/ltr/css/livescores.d42967cb18.css" rel="preload"/>
+  <style>
+   @font-face { font-family: "legacy-icons"; src: url("/assets/default/ltr/fonts/legacy-icons/400-normal.8af31b202f.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; } @font-face { font-family: "goal-icons"; src: url("/assets/default/ltr/fonts/goal-icons/400-normal.bbea453383.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; } @font-face { font-family: "Source Sans Pro"; src: url("/assets/default/ltr/fonts/source-sans-pro/400-normal.87693df219.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; } @font-face { font-family: "Source Sans Pro"; src: url("/assets/default/ltr/fonts/source-sans-pro/700-normal.d04757e6e9.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; } @font-face { font-family: "Poppins"; src: url("/assets/default/ltr/fonts/poppins/400-normal.c1b18d958f.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; } @font-face { font-family: "Poppins"; src: url("/assets/default/ltr/fonts/poppins/600-normal.24e2dd0739.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }  @font-face { font-family: "Titillium Web"; src: url("/assets/default/ltr/fonts/titillium-web/400-normal.c80480aeb4.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; } @font-face { font-family: "Titillium Web"; src: url("/assets/default/ltr/fonts/titillium-web/600-normal.48cdf84901.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; } @font-face { font-family: "Titillium Web"; src: url("/assets/default/ltr/fonts/titillium-web/700-normal.51e0378605.woff2") format("woff2"); font-weight: 700; font-style: normal; font-display: swap; }
+  </style>
+  <link href="/assets/default/ltr/css/livescores.d42967cb18.css" rel="stylesheet"/>
+  <script>
+   window.gtmDataLayer = window.gtmDataLayer || []; window.dataLayer = window.gtmDataLayer; window.gtmDataLayer.push.apply(window.gtmDataLayer, [ {"language":"en","environment":"production","edition":"en-us","goalversion":"BETA","siteVersion":"Responsive","version":"6.57.0","anonymousClientId":"goal_user","pageType":"Schedule","pageSubType":"Today","adPageName":"fixtures_results","pageTitle":"Live Soccer Scores, Fixtures & Results","otherContentTagIds":["70excpe1synn9kadnbppahdn7","4oogyu6o156iphvdvphwpck10","2kwbbcootiqqgmrzs6o5inle5","34pl8szyvrbwcmfkuocjm3r6t","1r097lpxe0xn03ihb7wi98kao","6by3h89i2eykc341oz7lv1ddd","dm5ka0os1e3dxcp3vh05kmp33","4c1nfi2j1m731hcay25fcgndq","c7b8o53flg36wbuevfzy3lb10","595nsvo7ykvoe690b1e4u5n56","287tckirbfj9nb8ar2k9r60vn","2hsidwomhjsaaytdy9u5niyi4","725gd73msyt08xm76v7gkxj7u","2hj3286pqov1g1g59k2t2qcgm","apdwh753fupxheygs8seahh7x","6694fff47wqxl10lrd9tb91f8","486rhdgz7yc0sygziht7hje65","djkvh1luqdkdixpoe653lzixg","cesdwwnxbc5fmajgroc0hqzy2","dvtl8sf1262pd2aqgu641qa7u"],"otherContentTags":["World Cup","UEFA Champions League","Premier League","Primera Divisi\u00f3n","Serie A","Bundesliga","Ligue 1","UEFA Europa League","UEFA Europa Conference League","UEFA Nations League","MLS","Liga MX","League Cup","FA Cup","Copa del Rey","Coppa Italia","DFB Pokal","NWSL","Friendlies","Friendlies Women"]} ]);
+  </script>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','gtmDataLayer','GTM-TLDJKF8');
+  </script>
+  <link href="https://www.goal.com/en-us/live-scores" rel="canonical">
+   <meta content="max-snippet:1000, max-image-preview:large, max-video-preview:1000, INDEX, FOLLOW" name="robots"/>
+   <meta content="summary_large_image" name="twitter:card"/>
+   <meta content="@goal" name="twitter:site"/>
+   <meta content="Live Soccer Scores, Fixtures &amp; Results | Goal.com" property="og:title"/>
+   <meta content="website" property="og:type"/>
+   <meta content="https://www.goal.com/en-us/live-scores" property="og:url"/>
+   <meta content="Get the latest live soccer scores, results &amp; fixtures from across the world, including World Cup, powered by Goal.com" property="og:description"/>
+   <meta content="https://www.goal.com/assets/default/ltr/img/social/live-scores.fec1e4b725.jpg" property="og:image"/>
+   <meta content="720" property="og:image:height"/>
+   <meta content="1280" property="og:image:width"/>
+   <link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+   <link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+   <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+   <link href="/site.webmanifest" rel="manifest"/>
+   <link color="#081f2c" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+   <meta content="#081f2c" name="msapplication-TileColor"/>
+   <meta content="#081f2c" name="theme-color"/>
+  </link>
+ </head>
+ <body class="layout-master layout-main-with-sidebar page-live-scores" itemscope="" itemtype="https://schema.org/WebPage">
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TLDJKF8&amp;language=en&amp;environment=production&amp;edition=en-us&amp;goalversion=BETA&amp;siteVersion=Responsive&amp;version=6.57.0&amp;anonymousClientId=goal_user&amp;pageType=Schedule&amp;pageSubType=Today&amp;adPageName=fixtures_results&amp;pageTitle=Live+Soccer+Scores%2C+Fixtures+%26+Results&amp;otherContentTagIds=70excpe1synn9kadnbppahdn7%2C4oogyu6o156iphvdvphwpck10%2C2kwbbcootiqqgmrzs6o5inle5%2C34pl8szyvrbwcmfkuocjm3r6t%2C1r097lpxe0xn03ihb7wi98kao%2C6by3h89i2eykc341oz7lv1ddd%2Cdm5ka0os1e3dxcp3vh05kmp33%2C4c1nfi2j1m731hcay25fcgndq%2Cc7b8o53flg36wbuevfzy3lb10%2C595nsvo7ykvoe690b1e4u5n56%2C287tckirbfj9nb8ar2k9r60vn%2C2hsidwomhjsaaytdy9u5niyi4%2C725gd73msyt08xm76v7gkxj7u%2C2hj3286pqov1g1g59k2t2qcgm%2Capdwh753fupxheygs8seahh7x%2C6694fff47wqxl10lrd9tb91f8%2C486rhdgz7yc0sygziht7hje65%2Cdjkvh1luqdkdixpoe653lzixg%2Ccesdwwnxbc5fmajgroc0hqzy2%2Cdvtl8sf1262pd2aqgu641qa7u&amp;otherContentTags=World+Cup%2CUEFA+Champions+League%2CPremier+League%2CPrimera+Divisi%C3%B3n%2CSerie+A%2CBundesliga%2CLigue+1%2CUEFA+Europa+League%2CUEFA+Europa+Conference+League%2CUEFA+Nations+League%2CMLS%2CLiga+MX%2CLeague+Cup%2CFA+Cup%2CCopa+del+Rey%2CCoppa+Italia%2CDFB+Pokal%2CNWSL%2CFriendlies%2CFriendlies+Women" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <div class="out-of-page" data-name="out-of-page" data-role="ad" data-slot-id="/67970281/DISPLAY_OWNED_GBL/goalcom_responsive/fixtures_results/highimpact">
+   <div data-state="unloaded" id="ad-638c07714b867">
+   </div>
+   <script>
+    window.dynamicAdConfig = window.dynamicAdConfig || []; window.dynamicAdConfig.push({"placementName":"highimpact","sizes":"out-of-page","containerId":"ad-638c07714b867","adUnit":"\/67970281\/DISPLAY_OWNED_GBL\/goalcom_responsive\/fixtures_results\/highimpact","name":"out-of-page"});
+   </script>
+  </div>
+  <a aria-hidden="true" href="#" id="defocus-element">
+  </a>
+  <header class="widget-header">
+   <div class="widget-header__commercials">
+    <div class="widget-sponsorship banner-top" data-sponsorship-type="banner-top">
+     <div class="banner" data-sponsorship-slot="banner-top" data-sponsorship-slot-id="image">
+     </div>
+    </div>
+    <div class="widget-ad-masthead">
+     <div class="ad-masthead" data-name="ad-masthead" data-role="ad" data-slot-id="/67970281/DISPLAY_OWNED_GBL/goalcom_responsive/fixtures_results/masthead">
+      <div data-state="unloaded" id="ad-638c07714bde6">
+      </div>
+      <script>
+       window.dynamicAdConfig = window.dynamicAdConfig || []; window.dynamicAdConfig.push({"placementName":"masthead","sizes":{"320":["2x2","321x50"],"480":["2x2","480x50"],"580":["2x2","580x50"],"740":["2x2","740x50"],"980":["2x2","980x80"],"1580":["2x2","1580x80"]},"refreshOnBreakpointChange":false,"containerId":"ad-638c07714bde6","adUnit":"\/67970281\/DISPLAY_OWNED_GBL\/goalcom_responsive\/fixtures_results\/masthead","name":"ad-masthead"});
+      </script>
+     </div>
+    </div>
+   </div>
+   <div class="gf-widget gf-widget--navigation">
+    <div class="react-top-menu" style="opacity: 0; visibility: hidden;">
+     <nav>
+      <div>
+       <a href="/en-us">
+        <img alt="Goal.com" height="60" src="/img/logo.svg" width="80"/>
+       </a>
+       <a href="/en-us/live-scores">
+        Live Scores
+       </a>
+       <button>
+        <span>
+        </span>
+       </button>
+       <ul data-level="1">
+        <li>
+         <a href="https://www.goal.com/en-us/live-scores">
+          SCORES
+         </a>
+        </li>
+        <li data-extendable="true">
+         <button>
+          WORLD CUP
+          <i data-icon="table-down">
+          </i>
+         </button>
+         <ul data-level="2">
+          <li>
+           <button>
+            News, matches &amp; standings
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/world-cup/70excpe1synn9kadnbppahdn7">
+              Latest news
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/world-cup/fixtures-results/70excpe1synn9kadnbppahdn7">
+              Fixtures &amp; results
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/world-cup/table/70excpe1synn9kadnbppahdn7">
+              Group standings
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            Guides
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/story/ultimate-tournament-guide-2022/index.html">
+              Ultimate tournament guide
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            Betting
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/category/Betting/1/1hus6inf0m472179o2unm9uic3">
+              World Cup tips &amp; odds
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li data-extendable="true">
+         <button>
+          BREAKING NEWS
+          <i data-icon="table-down">
+          </i>
+         </button>
+         <ul data-level="2">
+          <li>
+           <button>
+            Latest
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/news/1">
+              Breaking News
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/transfer-news">
+              Transfers
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/category/features-opinions/1/rpux9itsa1271baslypn8ifq9">
+              Feature Stories
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            Info
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/tables">
+              League Tables
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/live-scores">
+              Fixtures &amp; Results
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/category/Betting/1/1hus6inf0m472179o2unm9uic3">
+              Betting Tips &amp; Previews
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            International Football
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/team/united-states/9vh2u1p4ppm597tjfahst2m3n">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_9vh2u1p4ppm597tjfahst2m3n.png?application=goal.com" width="30"/>
+              USMNT
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/mexico/4vofb84dzb5fyc81n2ssws6ah">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_4vofb84dzb5fyc81n2ssws6ah.png?application=goal.com" width="30"/>
+              Mexico
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/world-cup/70excpe1synn9kadnbppahdn7">
+              World Cup
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li data-extendable="true">
+         <button>
+          LEAGUES
+          <i data-icon="table-down">
+          </i>
+         </button>
+         <ul data-level="2">
+          <li>
+           <button>
+            Premier League
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/premier-league/table/2kwbbcootiqqgmrzs6o5inle5">
+              Table
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/manchester-united/6eqit8ye8aomdsrrq0hk3v7gh">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_6eqit8ye8aomdsrrq0hk3v7gh.png?application=goal.com" width="30"/>
+              Manchester United
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/liverpool/c8h9bw1l82s06h77xxrelzhur">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_c8h9bw1l82s06h77xxrelzhur.png?application=goal.com" width="30"/>
+              Liverpool
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/manchester-city/a3nyxabgsqlnqfkeg41m6tnpp">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_a3nyxabgsqlnqfkeg41m6tnpp.png?application=goal.com" width="30"/>
+              Manchester City
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/chelsea/9q0arba2kbnywth8bkxlhgmdr">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_9q0arba2kbnywth8bkxlhgmdr.png?application=goal.com" width="30"/>
+              Chelsea
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/arsenal/4dsgumo7d4zupm2ugsvm4zm4d">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_4dsgumo7d4zupm2ugsvm4zm4d.png?application=goal.com" width="30"/>
+              Arsenal
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/premier-league/2kwbbcootiqqgmrzs6o5inle5">
+              Other Clubs
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            Champions League
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/uefa-champions-league/table/4oogyu6o156iphvdvphwpck10">
+              Group standings
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/real-madrid/3kq9cckrnlogidldtdie2fkbl">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_3kq9cckrnlogidldtdie2fkbl.png?application=goal.com" width="30"/>
+              Real Madrid
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/barcelona/agh9ifb2mw3ivjusgedj7c3fe">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_agh9ifb2mw3ivjusgedj7c3fe.png?application=goal.com" width="30"/>
+              Barcelona
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/juventus/bqbbqm98ud8obe45ds9ohgyrd">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_bqbbqm98ud8obe45ds9ohgyrd.png?application=goal.com" width="30"/>
+              Juventus
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/bayern-m%C3%BCnchen/apoawtpvac4zqlancmvw4nk4o">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_apoawtpvac4zqlancmvw4nk4o.png?application=goal.com" width="30"/>
+              Bayern Munich
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/psg/2b3mar72yy8d6uvat1ka6tn3r">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_2b3mar72yy8d6uvat1ka6tn3r.png?application=goal.com" width="30"/>
+              PSG
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/teams">
+              Other Clubs
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/story/fresherfootball/">
+              Fresher Football
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            European Football
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/primera-divisi%C3%B3n/34pl8szyvrbwcmfkuocjm3r6t">
+              La Liga
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/serie-a/1r097lpxe0xn03ihb7wi98kao">
+              Serie A
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/bundesliga/6by3h89i2eykc341oz7lv1ddd">
+              Bundesliga
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/ligue-1/dm5ka0os1e3dxcp3vh05kmp33">
+              Ligue 1
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            Women's Football
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/category/womens-football/1/m1qs5dwbv9g61syony1okqw3g">
+              Breaking News
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/nwsl/djkvh1luqdkdixpoe653lzixg">
+              NWSL
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/team/united-states/e70zl10x0ayu7y10ry0wi465a">
+              <img alt="teams" decoding="async" height="30" loading="lazy" src="https://cdn.sportfeeds.io/soccer/images/teams/30x30/uuid_e70zl10x0ayu7y10ry0wi465a.png?application=goal.com" width="30"/>
+              USWNT
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/uefa-womens-champions-league/55hcphd1ccc6eai1ms77460on">
+              UWCL
+             </a>
+            </li>
+            <li>
+             <a href="https://www.instagram.com/indivisa/" rel="noreferrer noopener" target="_blank">
+              INDIVISA
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li data-extendable="true">
+         <button>
+          LIFESTYLE
+          <i data-icon="table-down">
+          </i>
+         </button>
+         <ul data-level="2">
+          <li>
+           <button>
+            Content
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/category/culture/1/edzsmxzmp4y81pp4ozi9lrdeh">
+              Culture News
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/category/features-opinions/1/rpux9itsa1271baslypn8ifq9">
+              Feature Stories
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/category/vice-x-goal/1/blt877d97bf017449a0">
+              Vice x GOAL
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            Guides
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.goal.com/en-us/category/fifa-23/1/bltbb26aeddc9368957">
+              FIFA 23
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en-us/category/uk-shopping/1/jay1lq18ea7j1bks90cjvzor9">
+              Buyers' Guides
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            Goal Network
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://mundialmag.com/" rel="noreferrer noopener" target="_blank">
+              MUNDIAL
+             </a>
+            </li>
+            <li>
+             <a href="https://www.instagram.com/nxgn_football/" rel="noreferrer noopener" target="_blank">
+              NXGN
+             </a>
+            </li>
+            <li>
+             <a href="https://www.instagram.com/indivisa/">
+              INDIVISA
+             </a>
+            </li>
+           </ul>
+          </li>
+          <li>
+           <button>
+            Follow &amp; Subscribe
+           </button>
+           <ul data-level="3">
+            <li>
+             <a href="https://www.facebook.com/GOAL/" rel="noreferrer noopener" target="_blank">
+              Facebook
+             </a>
+            </li>
+            <li>
+             <a href="https://twitter.com/goal" rel="noreferrer noopener" target="_blank">
+              Twitter
+             </a>
+            </li>
+            <li>
+             <a href="https://www.instagram.com/goalglobal/" rel="noreferrer noopener" target="_blank">
+              Instagram
+             </a>
+            </li>
+            <li>
+             <a href="https://www.tiktok.com/@goalglobal" rel="noreferrer noopener" target="_blank">
+              TikTok
+             </a>
+            </li>
+            <li>
+             <a href="https://goal.us2.list-manage.com/subscribe?u=334d8448f05957519a37f510f&amp;id=a1cc099c14" rel="noreferrer noopener" target="_blank">
+              Newsletters
+             </a>
+            </li>
+            <li>
+             <a href="https://www.goal.com/en/news/all-of-us-us-womens-soccer-show-goal-uswnt-podcast-olympic/kdfquwmuk16y1gkh9bcvxukd6">
+              Podcasts
+             </a>
+            </li>
+           </ul>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="https://en.goalstudio.com/" rel="noreferrer noopener" target="_blank">
+          GOALSTUDIO
+         </a>
+        </li>
+        <li>
+         <a href="https://www.goal.com/en-us/soccer-on-tv">
+          TV SCHEDULE
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <script class="react-menu-data" type="application/json">
+     {"top":{"items":[{"label":"SCORES","newTab":false,"url":"https://www.goal.com/en-us/live-scores"},{"label":"WORLD CUP","items":[{"items":[{"label":"Latest news","url":"https://www.goal.com/en-us/world-cup/70excpe1synn9kadnbppahdn7","newTab":false,"__typename":"MenuLink"},{"label":"Fixtures & results","url":"https://www.goal.com/en-us/world-cup/fixtures-results/70excpe1synn9kadnbppahdn7","newTab":false,"__typename":"MenuLink"},{"label":"Group standings","url":"https://www.goal.com/en-us/world-cup/table/70excpe1synn9kadnbppahdn7","newTab":false,"__typename":"MenuLink"}],"label":"News, matches & standings"},{"items":[{"label":"Ultimate tournament guide","url":"https://www.goal.com/story/ultimate-tournament-guide-2022/index.html","newTab":false,"__typename":"MenuLink"}],"label":"Guides"},{"items":[{"label":"World Cup tips & odds","url":"https://www.goal.com/en-us/category/Betting/1/1hus6inf0m472179o2unm9uic3","newTab":false,"__typename":"MenuLink"}],"label":"Betting"}]},{"label":"BREAKING NEWS","items":[{"items":[{"label":"Breaking News","url":"https://www.goal.com/en-us/news/1","newTab":false,"__typename":"MenuLink"},{"label":"Transfers","url":"https://www.goal.com/en-us/transfer-news","newTab":false,"__typename":"MenuLink"},{"label":"Feature Stories","url":"https://www.goal.com/en-us/category/features-opinions/1/rpux9itsa1271baslypn8ifq9","newTab":false,"__typename":"MenuLink"}],"label":"Latest"},{"items":[{"label":"League Tables","url":"https://www.goal.com/en-us/tables","newTab":false,"__typename":"MenuLink"},{"label":"Fixtures & Results","url":"https://www.goal.com/en-us/live-scores","newTab":false,"__typename":"MenuLink"},{"label":"Betting Tips & Previews","url":"https://www.goal.com/en-us/category/Betting/1/1hus6inf0m472179o2unm9uic3","newTab":false,"__typename":"MenuLink"}],"label":"Info"},{"items":[{"label":"USMNT","url":"https://www.goal.com/en-us/team/united-states/9vh2u1p4ppm597tjfahst2m3n","newTab":false,"__typename":"MenuLink"},{"label":"Mexico","url":"https://www.goal.com/en-us/team/mexico/4vofb84dzb5fyc81n2ssws6ah","newTab":false,"__typename":"MenuLink"},{"label":"World Cup","url":"https://www.goal.com/en-us/world-cup/70excpe1synn9kadnbppahdn7","newTab":false,"__typename":"MenuLink"}],"label":"International Football"}]},{"label":"LEAGUES","items":[{"items":[{"label":"Table","url":"https://www.goal.com/en-us/premier-league/table/2kwbbcootiqqgmrzs6o5inle5","newTab":false,"__typename":"MenuLink"},{"label":"Manchester United","url":"https://www.goal.com/en-us/team/manchester-united/6eqit8ye8aomdsrrq0hk3v7gh","newTab":false,"__typename":"MenuLink"},{"label":"Liverpool","url":"https://www.goal.com/en-us/team/liverpool/c8h9bw1l82s06h77xxrelzhur","newTab":false,"__typename":"MenuLink"},{"label":"Manchester City","url":"https://www.goal.com/en-us/team/manchester-city/a3nyxabgsqlnqfkeg41m6tnpp","newTab":false,"__typename":"MenuLink"},{"label":"Chelsea","url":"https://www.goal.com/en-us/team/chelsea/9q0arba2kbnywth8bkxlhgmdr","newTab":false,"__typename":"MenuLink"},{"label":"Arsenal","url":"https://www.goal.com/en-us/team/arsenal/4dsgumo7d4zupm2ugsvm4zm4d","newTab":false,"__typename":"MenuLink"},{"label":"Other Clubs","url":"https://www.goal.com/en-us/premier-league/2kwbbcootiqqgmrzs6o5inle5","newTab":false,"__typename":"MenuLink"}],"label":"Premier League"},{"items":[{"label":"Group standings","url":"https://www.goal.com/en-us/uefa-champions-league/table/4oogyu6o156iphvdvphwpck10","newTab":false,"__typename":"MenuLink"},{"label":"Real Madrid","url":"https://www.goal.com/en-us/team/real-madrid/3kq9cckrnlogidldtdie2fkbl","newTab":false,"__typename":"MenuLink"},{"label":"Barcelona","url":"https://www.goal.com/en-us/team/barcelona/agh9ifb2mw3ivjusgedj7c3fe","newTab":false,"__typename":"MenuLink"},{"label":"Juventus","url":"https://www.goal.com/en-us/team/juventus/bqbbqm98ud8obe45ds9ohgyrd","newTab":false,"__typename":"MenuLink"},{"label":"Bayern Munich","url":"https://www.goal.com/en-us/team/bayern-m%C3%BCnchen/apoawtpvac4zqlancmvw4nk4o","newTab":false,"__typename":"MenuLink"},{"label":"PSG","url":"https://www.goal.com/en-us/team/psg/2b3mar72yy8d6uvat1ka6tn3r","newTab":false,"__typename":"MenuLink"},{"label":"Other Clubs","url":"https://www.goal.com/en-us/teams","newTab":false,"__typename":"MenuLink"},{"label":"Fresher Football","url":"https://www.goal.com/story/fresherfootball/","newTab":false,"__typename":"MenuLink"}],"label":"Champions League"},{"items":[{"label":"La Liga","url":"https://www.goal.com/en-us/primera-divisi%C3%B3n/34pl8szyvrbwcmfkuocjm3r6t","newTab":false,"__typename":"MenuLink"},{"label":"Serie A","url":"https://www.goal.com/en-us/serie-a/1r097lpxe0xn03ihb7wi98kao","newTab":false,"__typename":"MenuLink"},{"label":"Bundesliga","url":"https://www.goal.com/en-us/bundesliga/6by3h89i2eykc341oz7lv1ddd","newTab":false,"__typename":"MenuLink"},{"label":"Ligue 1","url":"https://www.goal.com/en-us/ligue-1/dm5ka0os1e3dxcp3vh05kmp33","newTab":false,"__typename":"MenuLink"}],"label":"European Football"},{"items":[{"label":"Breaking News","url":"https://www.goal.com/en-us/category/womens-football/1/m1qs5dwbv9g61syony1okqw3g","newTab":false,"__typename":"MenuLink"},{"label":"NWSL","url":"https://www.goal.com/en-us/nwsl/djkvh1luqdkdixpoe653lzixg","newTab":false,"__typename":"MenuLink"},{"label":"USWNT","url":"https://www.goal.com/en-us/team/united-states/e70zl10x0ayu7y10ry0wi465a","newTab":false,"__typename":"MenuLink"},{"label":"UWCL","url":"https://www.goal.com/en-us/uefa-womens-champions-league/55hcphd1ccc6eai1ms77460on","newTab":false,"__typename":"MenuLink"},{"label":"INDIVISA","url":"https://www.instagram.com/indivisa/","newTab":true,"__typename":"MenuLink"}],"label":"Women's Football"}]},{"label":"LIFESTYLE","items":[{"items":[{"label":"Culture News","url":"https://www.goal.com/en-us/category/culture/1/edzsmxzmp4y81pp4ozi9lrdeh","newTab":false,"__typename":"MenuLink"},{"label":"Feature Stories","url":"https://www.goal.com/en-us/category/features-opinions/1/rpux9itsa1271baslypn8ifq9","newTab":false,"__typename":"MenuLink"},{"label":"Vice x GOAL","url":"https://www.goal.com/en-us/category/vice-x-goal/1/blt877d97bf017449a0","newTab":false,"__typename":"MenuLink"}],"label":"Content"},{"items":[{"label":"FIFA 23","url":"https://www.goal.com/en-us/category/fifa-23/1/bltbb26aeddc9368957","newTab":false,"__typename":"MenuLink"},{"label":"Buyers' Guides","url":"https://www.goal.com/en-us/category/uk-shopping/1/jay1lq18ea7j1bks90cjvzor9","newTab":false,"__typename":"MenuLink"}],"label":"Guides"},{"items":[{"label":"MUNDIAL","url":"https://mundialmag.com/","newTab":true,"__typename":"MenuLink"},{"label":"NXGN","url":"https://www.instagram.com/nxgn_football/","newTab":true,"__typename":"MenuLink"},{"label":"INDIVISA","url":"https://www.instagram.com/indivisa/","newTab":false,"__typename":"MenuLink"}],"label":"Goal Network"},{"items":[{"label":"Facebook","url":"https://www.facebook.com/GOAL/","newTab":true,"__typename":"MenuLink"},{"label":"Twitter","url":"https://twitter.com/goal","newTab":true,"__typename":"MenuLink"},{"label":"Instagram","url":"https://www.instagram.com/goalglobal/","newTab":true,"__typename":"MenuLink"},{"label":"TikTok","url":"https://www.tiktok.com/@goalglobal","newTab":true,"__typename":"MenuLink"},{"label":"Newsletters","url":"https://goal.us2.list-manage.com/subscribe?u=334d8448f05957519a37f510f&id=a1cc099c14","newTab":true,"__typename":"MenuLink"},{"label":"Podcasts","url":"https://www.goal.com/en/news/all-of-us-us-womens-soccer-show-goal-uswnt-podcast-olympic/kdfquwmuk16y1gkh9bcvxukd6","newTab":false,"__typename":"MenuLink"}],"label":"Follow & Subscribe"}]},{"label":"GOALSTUDIO","newTab":true,"url":"https://en.goalstudio.com/"},{"label":"TV SCHEDULE","newTab":false,"url":"https://www.goal.com/en-us/soccer-on-tv"}],"edition":"en-us","liveScoreButton":{"edition":"en-us","text":"Live Scores"}}}
+    </script>
+    <script async="" src="https://www.goal.com/shared/navigation.js?v=3fc3e131facfe0fbbbaa73f9efeb7c9f">
+    </script>
+    <link href="https://www.goal.com/shared/navigation.css?v=3fc3e131facfe0fbbbaa73f9efeb7c9f" rel="stylesheet"/>
+   </div>
+  </header>
+  <div class="commercial-leaderboard">
+   <div class="ad-leaderboard" data-name="ad-leaderboard" data-role="ad" data-slot-id="/67970281/DISPLAY_OWNED_GBL/goalcom_responsive/fixtures_results/topbanner">
+    <div data-state="unloaded" id="ad-638c07714c29b">
+    </div>
+    <script>
+     window.dynamicAdConfig = window.dynamicAdConfig || []; window.dynamicAdConfig.push({"placementName":"topbanner","sizes":{"320":["320x50","320x100","fluid"],"480":["320x50","320x100","fluid"],"580":["320x50","320x100","fluid"],"740":["740x300"],"980":["970x90","970x250","980x300"],"1580":["970x90","970x250","1580x300"]},"refreshOnBreakpointChange":true,"containerId":"ad-638c07714c29b","adUnit":"\/67970281\/DISPLAY_OWNED_GBL\/goalcom_responsive\/fixtures_results\/topbanner","name":"ad-leaderboard"});
+    </script>
+   </div>
+  </div>
+  <div class="page-container">
+   <div class="widget-ad-skin" data-module="ad/skin">
+    <div class="widget-ad-skin__left-gutter">
+    </div>
+    <div class="widget-ad-skin__right-gutter">
+    </div>
+   </div>
+   <div class="page-container-bg">
+    <div class="above-content clearfix">
+     <div class="page-header">
+      <div class="page-header__title">
+       Today's Matches
+      </div>
+      <div class="widget-live-counter" data-module="live-counter" data-settings='{"date":"2022-12-04"}'>
+       <span class="widget-live-counter__text">
+        Live
+       </span>
+       <span class="widget-live-counter__number">
+       </span>
+      </div>
+     </div>
+     <h1 title="Live Soccer Scores, Fixtures &amp; Results">
+      Live Soccer Scores, Fixtures &amp; Results
+     </h1>
+    </div>
+    <div class="mr-gutters main-container clearfix">
+     <div class="main-content">
+      <div class="box-content">
+       <div class="widget-calendar" data-module="calendar" data-settings='{"feedUrl":"\/en-us\/ajax\/calendar","startDate":"2022-12-04"}'>
+        <div class="calendar-button-area">
+         <a class="prev" href="/en-us/results/2022-12-03" rel="nofollow">
+         </a>
+         <span class="today">
+          <span class="text">
+           December 4, 2022
+          </span>
+         </span>
+         <a class="next" href="/en-us/fixtures/2022-12-05" rel="nofollow">
+         </a>
+        </div>
+        <div class="calendar-placeholder loading">
+        </div>
+       </div>
+      </div>
+      <div class="widget-fixtures-and-results" data-module="fixtures-and-results" data-settings='{"currentDate":"today","nextMatchesFeedUrl":"\/en-us\/ajax\/predict-next-matches"}'>
+       <div class="competition-matches" data-competition-id="70excpe1synn9kadnbppahdn7">
+        <a class="competition-title" href="/en-us/world-cup/70excpe1synn9kadnbppahdn7">
+         <div class="competition-name">
+          World Cup
+         </div>
+        </a>
+        <div class="match-row-list">
+         <div class="match-row status-pld" data-match-id="3yeo9n9dkr75f70bo9lcosewa" data-module="framework/match-row" data-settings='{"scope":"widget-fixtures-and-results","live":true,"matchId":"3yeo9n9dkr75f70bo9lcosewa","matchStatus":"pld","matchStartTimestamp":1670079600000}' data-timestamp="1670079600000" itemscope="" itemtype="https://schema.org/SportsEvent">
+          <meta content="Khalifa International Stadium" itemprop="location">
+           <meta content="Netherlands vs United States" itemprop="name">
+            <meta content="2022-12-03T15:00:00Z" itemprop="startDate">
+             <div class="match-main-data">
+              <a class="match-main-data-link" href="/en-us/match/netherlands-v-united-states/3yeo9n9dkr75f70bo9lcosewa" itemprop="url">
+               <div class="match-status">
+                <span data-bind="state">
+                 FT
+                </span>
+                <time data-time-format="hour24" data-utc="1670079600000" datetime="2022-12-03T15:00:00Z">
+                 <meta content="2022-12-03T15:00:00Z" itemprop="startDate">
+                  <meta content="EventScheduled" itemprop="eventStatus">
+                   10:00
+                  </meta>
+                 </meta>
+                </time>
+               </div>
+               <div class="match-teams">
+                <div class="match-data">
+                 <div class="team-home win" itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+                  <span class="goals" data-bind="scoreHome">
+                   3
+                  </span>
+                  <span class="crest">
+                   <img alt="Netherlands" itemprop="logo" loading="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+                   <noscript data-lazy-load-polyfill="">
+                    <img alt="Netherlands" itemprop="logo" loading="lazy" src="https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_657oha8nkne1ybba2bouzkbo7.png"/>
+                    <div class="credits">
+                    </div>
+                   </noscript>
+                  </span>
+                  <span class="team-name" itemprop="name">
+                   Netherlands
+                  </span>
+                 </div>
+                 <div class="line">
+                  -
+                 </div>
+                 <div class="team-away" itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+                  <span class="goals" data-bind="scoreAway">
+                   1
+                  </span>
+                  <span class="crest">
+                   <img alt="United States" itemprop="logo" loading="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+                   <noscript data-lazy-load-polyfill="">
+                    <img alt="United States" itemprop="logo" loading="lazy" src="https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_9vh2u1p4ppm597tjfahst2m3n.png"/>
+                    <div class="credits">
+                    </div>
+                   </noscript>
+                  </span>
+                  <span class="team-name" itemprop="name">
+                   United States
+                  </span>
+                 </div>
+                </div>
+               </div>
+              </a>
+              <div class="action">
+              </div>
+             </div>
+             <div class="">
+             </div>
+             <div class="match-additional-data">
+              <span class="match-additional-data__agregate" data-bind="info" hidden"="">
+              </span>
+             </div>
+            </meta>
+           </meta>
+          </meta>
+         </div>
+         <div class="match-row status-pld" data-match-id="egl2ic1x3t9fxkdewikqeejxm" data-module="framework/match-row" data-settings='{"scope":"widget-fixtures-and-results","live":true,"matchId":"egl2ic1x3t9fxkdewikqeejxm","matchStatus":"pld","matchStartTimestamp":1670094000000}' data-timestamp="1670094000000" itemscope="" itemtype="https://schema.org/SportsEvent">
+          <meta content="Ahmad bin Ali Stadium" itemprop="location">
+           <meta content="Argentina vs Australia" itemprop="name">
+            <meta content="2022-12-03T19:00:00Z" itemprop="startDate">
+             <div class="match-main-data">
+              <a class="match-main-data-link" href="/en-us/match/argentina-v-australia/egl2ic1x3t9fxkdewikqeejxm" itemprop="url">
+               <div class="match-status">
+                <span data-bind="state">
+                 FT
+                </span>
+                <time data-time-format="hour24" data-utc="1670094000000" datetime="2022-12-03T19:00:00Z">
+                 <meta content="2022-12-03T19:00:00Z" itemprop="startDate">
+                  <meta content="EventScheduled" itemprop="eventStatus">
+                   14:00
+                  </meta>
+                 </meta>
+                </time>
+               </div>
+               <div class="match-teams">
+                <div class="match-data">
+                 <div class="team-home win" itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+                  <span class="goals" data-bind="scoreHome">
+                   2
+                  </span>
+                  <span class="crest">
+                   <img alt="Argentina" itemprop="logo" loading="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+                   <noscript data-lazy-load-polyfill="">
+                    <img alt="Argentina" itemprop="logo" loading="lazy" src="https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ak48fkypnql8y4n69cvcq5ghc.png"/>
+                    <div class="credits">
+                    </div>
+                   </noscript>
+                  </span>
+                  <span class="team-name" itemprop="name">
+                   Argentina
+                  </span>
+                 </div>
+                 <div class="line">
+                  -
+                 </div>
+                 <div class="team-away" itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+                  <span class="goals" data-bind="scoreAway">
+                   1
+                  </span>
+                  <span class="crest">
+                   <img alt="Australia" itemprop="logo" loading="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+                   <noscript data-lazy-load-polyfill="">
+                    <img alt="Australia" itemprop="logo" loading="lazy" src="https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_bl4fd8cxe6kjvjx8br82gkhnq.png"/>
+                    <div class="credits">
+                    </div>
+                   </noscript>
+                  </span>
+                  <span class="team-name" itemprop="name">
+                   Australia
+                  </span>
+                 </div>
+                </div>
+               </div>
+              </a>
+              <div class="action">
+              </div>
+             </div>
+             <div class="">
+             </div>
+             <div class="match-additional-data">
+              <span class="match-additional-data__agregate" data-bind="info" hidden"="">
+              </span>
+             </div>
+            </meta>
+           </meta>
+          </meta>
+         </div>
+         <div class="match-row status-fix" data-match-id="21c4pmd61gkqhqo8uxwrk7nfu" data-module="framework/match-row" data-settings='{"scope":"widget-fixtures-and-results","live":true,"matchId":"21c4pmd61gkqhqo8uxwrk7nfu","matchStatus":"fix","matchStartTimestamp":1670166000000}' data-timestamp="1670166000000" itemscope="" itemtype="https://schema.org/SportsEvent">
+          <meta content="Al Thumama Stadium" itemprop="location">
+           <meta content="France vs Poland" itemprop="name">
+            <meta content="2022-12-04T15:00:00Z" itemprop="startDate">
+             <div class="match-main-data">
+              <a class="match-main-data-link" href="/en-us/match/france-v-poland/21c4pmd61gkqhqo8uxwrk7nfu" itemprop="url">
+               <div class="match-status">
+                <span data-bind="state">
+                </span>
+                <time data-time-format="hour24" data-utc="1670166000000" datetime="2022-12-04T15:00:00Z">
+                 <meta content="2022-12-04T15:00:00Z" itemprop="startDate">
+                  <meta content="EventScheduled" itemprop="eventStatus">
+                   10:00
+                  </meta>
+                 </meta>
+                </time>
+               </div>
+               <div class="match-teams">
+                <div class="match-data">
+                 <div class="team-home" itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+                  <span class="goals" data-bind="scoreHome">
+                   0
+                  </span>
+                  <span class="crest">
+                   <img alt="France" itemprop="logo" loading="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+                   <noscript data-lazy-load-polyfill="">
+                    <img alt="France" itemprop="logo" loading="lazy" src="https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_4pz87gsel7183b7kcadw1dwzv.png"/>
+                    <div class="credits">
+                    </div>
+                   </noscript>
+                  </span>
+                  <span class="team-name" itemprop="name">
+                   France
+                  </span>
+                 </div>
+                 <div class="line">
+                  -
+                 </div>
+                 <div class="team-away" itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+                  <span class="goals" data-bind="scoreAway">
+                   0
+                  </span>
+                  <span class="crest">
+                   <img alt="Poland" itemprop="logo" loading="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+                   <noscript data-lazy-load-polyfill="">
+                    <img alt="Poland" itemprop="logo" loading="lazy" src="https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ba25ib8pofxr85hkbs8lt7kw7.png"/>
+                    <div class="credits">
+                    </div>
+                   </noscript>
+                  </span>
+                  <span class="team-name" itemprop="name">
+                   Poland
+                  </span>
+                 </div>
+                </div>
+               </div>
+              </a>
+              <div class="action">
+              </div>
+             </div>
+             <div class="">
+             </div>
+             <div class="match-additional-data">
+              <span class="match-additional-data__agregate" data-bind="info" hidden"="">
+              </span>
+             </div>
+            </meta>
+           </meta>
+          </meta>
+         </div>
+         <div class="match-row status-fix" data-match-id="3yowhdtoklrukfkubuqxm3gx6" data-module="framework/match-row" data-settings='{"scope":"widget-fixtures-and-results","live":true,"matchId":"3yowhdtoklrukfkubuqxm3gx6","matchStatus":"fix","matchStartTimestamp":1670180400000}' data-timestamp="1670180400000" itemscope="" itemtype="https://schema.org/SportsEvent">
+          <meta content="Al Bayt Stadium" itemprop="location">
+           <meta content="England vs Senegal" itemprop="name"/>
+           <meta content="2022-12-04T19:00:00Z" itemprop="startDate"/>
+           <div class="match-main-data">
+            <a class="match-main-data-link" href="/en-us/match/england-v-senegal/3yowhdtoklrukfkubuqxm3gx6" itemprop="url">
+             <div class="match-status">
+              <span data-bind="state">
+              </span>
+              <time data-time-format="hour24" data-utc="1670180400000" datetime="2022-12-04T19:00:00Z">
+               <meta content="2022-12-04T19:00:00Z" itemprop="startDate"/>
+               <meta content="EventScheduled" itemprop="eventStatus"/>
+               14:00
+              </time>
+             </div>
+             <div class="match-teams">
+              <div class="match-data">
+               <div class="team-home" itemprop="homeTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+                <span class="goals" data-bind="scoreHome">
+                 0
+                </span>
+                <span class="crest">
+                 <img alt="England" itemprop="logo" loading="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+                 <noscript data-lazy-load-polyfill="">
+                  <img alt="England" itemprop="logo" loading="lazy" src="https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_ck8m1cn23sukwsurgx5qakttk.png"/>
+                  <div class="credits">
+                  </div>
+                 </noscript>
+                </span>
+                <span class="team-name" itemprop="name">
+                 England
+                </span>
+               </div>
+               <div class="line">
+                -
+               </div>
+               <div class="team-away" itemprop="awayTeam" itemscope="" itemtype="https://schema.org/SportsTeam">
+                <span class="goals" data-bind="scoreAway">
+                 0
+                </span>
+                <span class="crest">
+                 <img alt="Senegal" itemprop="logo" loading="lazy" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E"/>
+                 <noscript data-lazy-load-polyfill="">
+                  <img alt="Senegal" itemprop="logo" loading="lazy" src="https://secure.cache.images.core.optasports.com/soccer/teams/30x30/uuid_2wk1549tkz80oet8226euj7jp.png"/>
+                  <div class="credits">
+                  </div>
+                 </noscript>
+                </span>
+                <span class="team-name" itemprop="name">
+                 Senegal
+                </span>
+               </div>
+              </div>
+             </div>
+            </a>
+            <div class="action">
+            </div>
+           </div>
+           <div class="">
+           </div>
+           <div class="match-additional-data">
+            <span class="match-additional-data__agregate" data-bind="info" hidden"="">
+            </span>
+           </div>
+          </meta>
+         </div>
+         <div class="competition-more-link">
+          <a href="/en-us/world-cup/table/70excpe1synn9kadnbppahdn7">
+           See Table
+          </a>
+         </div>
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="4oogyu6o156iphvdvphwpck10">
+        <a class="competition-title" href="/en-us/uefa-champions-league/4oogyu6o156iphvdvphwpck10">
+         <div class="competition-name">
+          UEFA Champions League
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="ad-top-mpu" data-name="ad-top-mpu" data-role="ad" data-slot-id="/67970281/DISPLAY_OWNED_GBL/goalcom_responsive/fixtures_results/topmpu">
+        <div data-label="Advertisement" data-state="unloaded" id="ad-638c07714a602">
+        </div>
+        <script>
+         window.dynamicAdConfig = window.dynamicAdConfig || []; window.dynamicAdConfig.push({"placementName":"topmpu","sizes":{"default":["300x250","300x600","fluid"],"740":["300x250","300x600"],"980":[]},"refreshOnBreakpointChange":true,"sticky":false,"containerId":"ad-638c07714a602","adUnit":"\/67970281\/DISPLAY_OWNED_GBL\/goalcom_responsive\/fixtures_results\/topmpu","name":"ad-top-mpu"});
+        </script>
+       </div>
+       <div class="competition-matches" data-competition-id="2kwbbcootiqqgmrzs6o5inle5">
+        <a class="competition-title" href="/en-us/premier-league/2kwbbcootiqqgmrzs6o5inle5">
+         <div class="competition-name">
+          Premier League
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="34pl8szyvrbwcmfkuocjm3r6t">
+        <a class="competition-title" href="/en-us/primera-divisi%C3%B3n/34pl8szyvrbwcmfkuocjm3r6t">
+         <div class="competition-name">
+          Primera División
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="1r097lpxe0xn03ihb7wi98kao">
+        <a class="competition-title" href="/en-us/serie-a/1r097lpxe0xn03ihb7wi98kao">
+         <div class="competition-name">
+          Serie A
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="6by3h89i2eykc341oz7lv1ddd">
+        <a class="competition-title" href="/en-us/bundesliga/6by3h89i2eykc341oz7lv1ddd">
+         <div class="competition-name">
+          Bundesliga
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="dm5ka0os1e3dxcp3vh05kmp33">
+        <a class="competition-title" href="/en-us/ligue-1/dm5ka0os1e3dxcp3vh05kmp33">
+         <div class="competition-name">
+          Ligue 1
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="4c1nfi2j1m731hcay25fcgndq">
+        <a class="competition-title" href="/en-us/uefa-europa-league/4c1nfi2j1m731hcay25fcgndq">
+         <div class="competition-name">
+          UEFA Europa League
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="c7b8o53flg36wbuevfzy3lb10">
+        <a class="competition-title" href="/en-us/uefa-europa-conference-league/c7b8o53flg36wbuevfzy3lb10">
+         <div class="competition-name">
+          UEFA Europa Conference League
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="595nsvo7ykvoe690b1e4u5n56">
+        <a class="competition-title" href="/en-us/uefa-nations-league/595nsvo7ykvoe690b1e4u5n56">
+         <div class="competition-name">
+          UEFA Nations League
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="287tckirbfj9nb8ar2k9r60vn">
+        <a class="competition-title" href="/en-us/mls/287tckirbfj9nb8ar2k9r60vn">
+         <div class="competition-name">
+          MLS
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="2hsidwomhjsaaytdy9u5niyi4">
+        <a class="competition-title" href="/en-us/liga-mx/2hsidwomhjsaaytdy9u5niyi4">
+         <div class="competition-name">
+          Liga MX
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="725gd73msyt08xm76v7gkxj7u">
+        <a class="competition-title" href="/en-us/league-cup/725gd73msyt08xm76v7gkxj7u">
+         <div class="competition-name">
+          League Cup
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="2hj3286pqov1g1g59k2t2qcgm">
+        <a class="competition-title" href="/en-us/fa-cup/2hj3286pqov1g1g59k2t2qcgm">
+         <div class="competition-name">
+          FA Cup
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="apdwh753fupxheygs8seahh7x">
+        <a class="competition-title" href="/en-us/copa-del-rey/apdwh753fupxheygs8seahh7x">
+         <div class="competition-name">
+          Copa del Rey
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="6694fff47wqxl10lrd9tb91f8">
+        <a class="competition-title" href="/en-us/coppa-italia/6694fff47wqxl10lrd9tb91f8">
+         <div class="competition-name">
+          Coppa Italia
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="486rhdgz7yc0sygziht7hje65">
+        <a class="competition-title" href="/en-us/dfb-pokal/486rhdgz7yc0sygziht7hje65">
+         <div class="competition-name">
+          DFB Pokal
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="djkvh1luqdkdixpoe653lzixg">
+        <a class="competition-title" href="/en-us/nwsl/djkvh1luqdkdixpoe653lzixg">
+         <div class="competition-name">
+          NWSL
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="cesdwwnxbc5fmajgroc0hqzy2">
+        <a class="competition-title" href="/en-us/friendlies/cesdwwnxbc5fmajgroc0hqzy2">
+         <div class="competition-name">
+          Friendlies
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+       <div class="competition-matches" data-competition-id="dvtl8sf1262pd2aqgu641qa7u">
+        <a class="competition-title" href="/en-us/friendlies-women/dvtl8sf1262pd2aqgu641qa7u" rel="nofollow">
+         <div class="competition-name">
+          Friendlies Women
+         </div>
+        </a>
+        <div class="match-row-list">
+        </div>
+       </div>
+      </div>
+     </div>
+     <aside>
+      <div class="widget-calendar" data-module="calendar" data-settings='{"feedUrl":"\/en-us\/ajax\/calendar","startDate":"2022-12-04"}'>
+       <div class="calendar-button-area">
+        <a class="prev" href="/en-us/results/2022-12-03" rel="nofollow">
+        </a>
+        <span class="today">
+         <span class="text">
+          December 4, 2022
+         </span>
+        </span>
+        <a class="next" href="/en-us/fixtures/2022-12-05" rel="nofollow">
+        </a>
+       </div>
+       <div class="calendar-placeholder loading">
+       </div>
+      </div>
+      <div class="commercial">
+       <div class="ad-top-mpu sticky" data-name="ad-top-mpu" data-role="ad" data-slot-id="/67970281/DISPLAY_OWNED_GBL/goalcom_responsive/fixtures_results/topmpu">
+        <div data-label="Advertisement" data-state="unloaded" id="ad-638c07714b81e">
+        </div>
+        <script>
+         window.dynamicAdConfig = window.dynamicAdConfig || []; window.dynamicAdConfig.push({"placementName":"topmpu","sizes":{"default":[],"980":["300x250","300x600"]},"refreshOnBreakpointChange":true,"sticky":true,"containerId":"ad-638c07714b81e","adUnit":"\/67970281\/DISPLAY_OWNED_GBL\/goalcom_responsive\/fixtures_results\/topmpu","name":"ad-top-mpu"});
+        </script>
+       </div>
+      </div>
+     </aside>
+    </div>
+    <div class="below-content clearfix">
+    </div>
+   </div>
+  </div>
+  <div class="drawer">
+   <header class="drawer__header">
+    <span class="drawer__title">
+    </span>
+    <i class="drawer__close">
+    </i>
+   </header>
+   <div class="drawer__content">
+   </div>
+  </div>
+  <footer class="widget-footer clearfix" data-module="footer" itemscope="" itemtype="https://schema.org/WPFooter">
+   <meta content="2022" itemprop="copyrightYear"/>
+   <meta content="Goal.com" itemprop="copyrightHolder"/>
+   <div class="page-container">
+    <a aria-label="Go to Goal homepage" class="widget-footer__logo" href="/en-us">
+    </a>
+    <div class="social-icons">
+     <a aria-label="Follow Goal on facebook" class="social-icons__facebook" href="https://www.facebook.com/goal" rel="noopener" target="_blank">
+     </a>
+     <a aria-label="Follow Goal on twitter" class="social-icons__twitter" href="https://twitter.com/goal" rel="noopener" target="_blank">
+     </a>
+     <a aria-label="Follow Goal on instagram" class="social-icons__instagram" href="https://www.instagram.com/goalglobal" rel="noopener" target="_blank">
+     </a>
+     <a aria-label="Follow Goal on youtube" class="social-icons__youtube" href="https://www.youtube.com/goal" rel="noopener" target="_blank">
+     </a>
+    </div>
+    <div class="widget-footer__bottom gutters">
+     <ul class="widget-footer__links clearfix">
+      <li>
+       <a href="/en-us/contact" itemprop="relatedLink">
+        Contact Us
+       </a>
+      </li>
+      <li>
+       <a href="/en-us/legal/terms-conditions" itemprop="relatedLink">
+        Terms of Service
+       </a>
+      </li>
+      <li>
+       <a href="/en-us/legal/privacy-policy" itemprop="relatedLink">
+        Privacy Policy
+       </a>
+      </li>
+      <li class="consent-trigger">
+       <span>
+        Privacy Settings
+       </span>
+      </li>
+      <li>
+       <a href="https://www.linkedin.com/company/footballco/jobs/" itemprop="relatedLink" rel="noopener" target="_blank">
+        Careers
+       </a>
+      </li>
+      <li class="android-link">
+       <a href="https://play.google.com/store/apps/details?id=com.freerange360.mpp.GOAL" itemprop="relatedLink">
+        Goal App
+       </a>
+      </li>
+      <li class="ios-link">
+       <a href="https://itunes.apple.com/app/goal.com/id518026818" itemprop="relatedLink">
+        Goal App
+       </a>
+      </li>
+      <li class="android-link">
+       <a href="https://go.onelink.me/2947384588/479c5d2f" itemprop="relatedLink">
+        Goal Live
+       </a>
+      </li>
+      <li class="ios-link">
+       <a href="https://go.onelink.me/2947384588/479c5d2f" itemprop="relatedLink">
+        Goal Live
+       </a>
+      </li>
+      <li>
+       <label class="switch-theme">
+        <input checked="" type="checkbox"/>
+        <span>
+        </span>
+       </label>
+      </li>
+     </ul>
+     <p class="widget-footer__copyright">
+      Copyright © 2022
+      <a href="/en-us">
+       Goal (United States)
+      </a>
+      All rights reserved. The information contained in
+      <a href="/en-us">
+       Goal (United States)
+      </a>
+      may not be published, broadcast, rewritten, or redistributed without the prior written authority of
+      <a href="/en-us">
+       Goal (United States)
+      </a>
+     </p>
+    </div>
+   </div>
+  </footer>
+  <div class="component-modal">
+   <span class="component-modal__close" data-action="@close">
+    Close
+   </span>
+   <div class="component-modal__content">
+   </div>
+   <div class="component-modal__actions">
+   </div>
+  </div>
+  <script src="/en-us/assets/js/language-data.js?v=6.57.0">
+  </script>
+  <script type="text/javascript">
+   window.loggingEnabled = false;
+  </script>
+  <script async="" src="/assets/default/ltr/js/livescores.210a8aa1dd.js">
+  </script>
+ </body>
+</html>
