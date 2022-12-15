@@ -33,14 +33,15 @@ def get_info(url):
 # print(get_info("/en-us/player/isma%C3%AFla-sarr/44s112hd02w1i2ucvai9jy7e1"))
 # print(get_info("/en-us/player/famara-di%C3%A9dhiou/4f9cu6k87brnodww2l1u9rob9"))
 
-with open("teams_players_temp.json", 'r') as file_obj:
-    teams_info = json.load(file_obj)
+# with open("teams_players_cached.json", 'r') as file_obj:
+#     teams_info = json.load(file_obj)
 
-for team in teams_info.keys():
-    for players_num in teams_info[team].keys():
-        if players_num != "Coach":
-            temp = get_info(teams_info[team][players_num][-1])
-            if '-' in temp:
-                print(teams_info[team][players_num])
-                print(temp)
-            # - -
+# for team in teams_info.keys():
+#     for players_num in teams_info[team].keys():
+#         if players_num != "Coach":
+#             temp = get_info(teams_info[team][players_num][-1])
+#             print(temp)
+#             teams_info[team][players_num].append(temp)
+#             # - -
+# with open("teams_players_info.json", 'w') as file_obj:
+#     json.dump(teams_info,file_obj)

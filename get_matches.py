@@ -20,37 +20,38 @@ def get_matches(url):
             if item.string.strip():
                 m_list.append(item.string.strip())
     return m_list[2:-3]
-with open("./team_url.json", 'r') as file_obj:
-    team_url = json.load(file_obj)
-temp = []
-for team in team_url.items():
-    temp.append(get_matches(team[1]))
-# print(temp)
-matches = []
-for item in temp:
-    while (len(item) > 5):
-        if item[0] == "FT":
-            matches.append(item[0:6])
-            item = item[6:]
-        elif item[0] == "PEN":
-            matches.append(item[0:7])
-            item = item[7:]
+# with open("./team_url.json", 'r') as file_obj:
+#     team_url = json.load(file_obj)
+# temp = []
+# for team in team_url.items():
+#     temp.append(get_matches(team[1]))
+# # print(temp)
+# matches = []
+# for item in temp:
+#     while (len(item) > 5):
+#         if item[0] == "FT":
+#             matches.append(item[0:6])
+#             item = item[6:]
+#         elif item[0] == "PEN":
+#             matches.append(item[0:7])
+#             item = item[7:]
 
-# print(matches)
-for match in matches:
-    match.append({match[2], match[5]})
+# # print(matches)
+# for match in matches:
+#     match.append({match[2], match[5]})
 
-i = 0
-while i != len(matches)-1:
-    j = 0
-    while j != len(matches[i+1:]):
-        if matches[i+j+1][-1] == matches[i][-1]:
-            matches.pop(i+j+1)
-        else:
-            j += 1
-    i += 1
-for match in matches:
-    match.pop(-1)
-print(len(matches))
-with open("./matches.json", 'w') as fp:
-    json.dump(matches, fp)
+# i = 0
+# while i < len(matches)-1:
+#     print(i)
+#     j = 0
+#     while j != len(matches[i+1:]):
+#         if matches[i+j+1][-1] == matches[i][-1]:
+#             matches.pop(i+j+1)
+#         else:
+#             j += 1
+#     i += 1
+# for match in matches:
+#     match.pop(-1)
+# print(len(matches))
+# with open("./matches.json", 'w') as fp:
+#     json.dump(matches, fp)
